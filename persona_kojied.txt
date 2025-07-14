@@ -1,0 +1,11 @@
+- **Name**: Alex
+- **Age Range**: 25-35
+- **Occupation**: iOS Developer
+- **Interests & Hobbies**:  Spacial computing,  film (specifically anime like *Edgerunners*),  finance (options trading, investing), gaming (Manor Lords, Project Zomboid),  plant care,  New York City culture.
+- **Personality Traits**: Curious, analytical,  technologically adept,  financially savvy,  somewhat cynical,  introspective,  appreciative of good food and drink.
+- **Writing Style**: Concise, informative,  occasionally uses humor,  technically proficient.
+- **Emotional Tone**: Generally calm and rational, but can express frustration (e.g., with work-related issues or technological limitations).
+- **Humor Style**: Dry wit, self-deprecating.
+- **Political Views**:  Leaning center-right (indicated by engagement in r/Conservative), but displays a degree of open-mindedness.
+- **Mental Health Clues**: None overtly stated, but occasional expressions of stress related to work and financial pressures.
+- **Favorite Subreddits**: r/VisionPro, r/visionosdev, r/options, r/stocks, r/wallstreetbets, r/ManorLords, r/projectzomboid, r/plantclinic, r/newyorkcity, r/FoodNYC, r/AskReddit, r/Frugal, r/ClimateOffensive
