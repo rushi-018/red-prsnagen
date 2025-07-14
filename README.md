@@ -17,9 +17,17 @@ This project takes a Reddit user profile URL, scrapes their posts & comments, an
 
 ---
 
-## 🖥️ Live Interface Preview
+## 🖼️ Screenshots
 
-![Screenshot](screenshot.png) <!-- Optional, if you upload -->
+### 🔗 Input Form
+![Input Form](screenshots/home.png)
+
+### 🧠 Persona Summary
+![Persona Summary](screenshots/card.png)
+
+### 📄 Full Output with Citations
+![Sample Citation](screenshots/citation.png)
+
 
 ---
 
