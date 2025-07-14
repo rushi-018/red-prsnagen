@@ -1,6 +1,5 @@
 # Reddit User Persona Generator
 
-🧠 **AI/LLM Engineer Internship Assignment** | Built for BeyondChats | 48-Hour Challenge
 
 This project takes a Reddit user profile URL, scrapes their posts & comments, and generates a structured, AI-powered user persona using Google's Gemini LLM.
 
@@ -110,8 +109,8 @@ You can select either model via dropdown:
 
 **Rushiraj Suwarnkar**
 
-* 📬 [rushiraj@example.com](mailto:rushiraj@example.com)
-* 🌐 GitHub: [yourusername](https://github.com/yourusername)
+* 📬 [rushirajsuwarnkar018@gmail.com]
+* 🌐 GitHub: https://github.com/rushi-018
 
 ---
 
